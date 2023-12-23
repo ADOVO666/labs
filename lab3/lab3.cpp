@@ -47,3 +47,4 @@ int main() {
 	fileres.close();
 	return 0;
 }
+//Изменение для гит

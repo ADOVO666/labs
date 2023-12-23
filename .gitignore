@@ -1,0 +1,6 @@
+x64
+*.obj
+*.log
+*.idb
+*.pdb
+*.tlog
